@@ -1,0 +1,2 @@
+public class latihanprauas12 {
+}
